@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964280965390",
+    "project_id": "hyper-product-sell",
+    "storage_bucket": "hyper-product-sell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964280965390:android:cb1052001ec9d3069f5f5f",
+        "android_client_info": {
+          "package_name": "com.rannlab.hypersell.hyper_sell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964280965390-kbo7o0inq0sfkr4u7df2r8r3vps85s95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDczUD1NoBf_Sk6ZTmbizfC9TJ9lO2r1i8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964280965390-kbo7o0inq0sfkr4u7df2r8r3vps85s95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
